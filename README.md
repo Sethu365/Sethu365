@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sethu</h1>
 <h3 align="center">Cybersecurity Enthusiast | SOC Analyst | Threat Intelligence Learner</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sethu365&label=Profile%20views&color=0e75b6&style=flat" alt="Sethu365" />
+</p> -->
+
+---
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🔐 Passionate about **Cybersecurity & Threat Intelligence**
@@ -45,13 +51,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
