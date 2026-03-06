@@ -1,26 +1,64 @@
-# 👋 Hi, I'm Sethu
-
-🚀 Passionate about Cybersecurity and Development
-
----
-
-## 👨‍💻 About Me
-- 🔐 Interested in SOC & Threat Intelligence
-- 💻 Learning Security Tools
-- 🚀 Exploring Open Source Projects
-
----
-
-## ⚡ GitHub Activity Game
+<h1 align="center">Hi 👋, I'm Sethu</h1>
+<h3 align="center">Cybersecurity Enthusiast | SOC Analyst | Threat Intelligence Learner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Sethu365&label=Profile%20views&color=0e75b6&style=flat" alt="Sethu365" />
 </p>
 
 ---
 
-## 🛠 Skills
-- Cyber Security
-- Threat Intelligence
-- SOC Analysis
-- GitHub & Automation
+## 👨‍💻 About Me
+
+- 🔐 Passionate about **Cybersecurity & Threat Intelligence**
+- 🛡️ Interested in **SOC Analysis and Security Operations**
+- 🌱 Currently learning **Security Tools & Blue Teaming**
+- 💡 Love exploring **Open Source Security Projects**
+- 🚀 Goal: Become a **Professional Cybersecurity Analyst**
+
+---
+
+## 🛠️ Skills & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,git,github,bash,html,css,js,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sethu365&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu365&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethu365&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/Sethu365"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+⭐ *"Cybersecurity is not a product, but a process."*
