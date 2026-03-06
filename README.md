@@ -6,7 +6,7 @@
 </p> -->
 
 ---
-## 🐍 GitHub Contribution Snake
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sethu365&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu365&theme=tokyonight" />
@@ -43,13 +43,12 @@
 
 ---
 
-## 📈 Top Languages
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethu365&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 
 
