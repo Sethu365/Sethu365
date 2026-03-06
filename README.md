@@ -67,4 +67,4 @@
 
 ---
 
-<p align="center">⭐ *"Cybersecurity is not a product, but a process."*</p>
+<p align="center">"Cybersecurity is not a product, but a process."</p>
