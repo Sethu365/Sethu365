@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sethu
 
-<!--
-**Sethu365/Sethu365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about Cybersecurity and Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔐 Interested in SOC & Threat Intelligence
+- 💻 Learning Security Tools
+- 🚀 Exploring Open Source Projects
+
+---
+
+## ⚡ GitHub Activity Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🛠 Skills
+- Cyber Security
+- Threat Intelligence
+- SOC Analysis
+- GitHub & Automation
